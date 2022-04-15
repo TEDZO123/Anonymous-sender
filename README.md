@@ -1,6 +1,6 @@
 ## Anonymous Sender Bot [@AnonySendBot](https://t.me/AnonySendBot)
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/AnonymousSenderBot"><img src="https://telegra.ph/file/107ff8af751ad7b72e9b9.jpg" width="5000"></a></p>
+<p align="center"><a href="https://github.com/STBOTZ/Anonymous-sender"><img src="https://telegra.ph/file/107ff8af751ad7b72e9b9.jpg" width="5000"></a></p>
 
 Telegram bot to remove the forwarded tag from messages.
 
@@ -38,7 +38,7 @@ Telegram bot to remove the forwarded tag from messages.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/AnonymousSenderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/STBOTZ/Anonymous-sender)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -49,7 +49,7 @@ Telegram bot to remove the forwarded tag from messages.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/AnonymousSenderBot
+   git clone https://github.com/STBOTZ/Anonymous-sender
    ```
 2. Edit `Config.py` and fill the needed variables
 
@@ -86,37 +86,5 @@ Telegram bot to remove the forwarded tag from messages.
 4) Detect NSFW stuff to prevent take down of any bot.
 5) Support for groups, message dump n banning
 
-## Stats
-
-[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/AnonymousSenderBot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/StarkBotsIndustries/AnonymousSenderBot/network/) [![GitHub stars](https://img.shields.io/github/stars/StarkBotsIndustries/AnonymousSenderBot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StarkBotsIndustries/AnonymousSenderBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/StarkBotsIndustries/AnonymousSenderBot.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/StarkBotsIndustries/AnonymousSenderBot/watchers/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/StarkBotsIndustries/AnonymousSenderBot/graphs/commit-activity)
-
-## License
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-
-## Contributing
-
-[![GitHub contributors](https://img.shields.io/github/contributors/StarkBotsIndustries/AnonymousSenderBot.svg)](https://github.com/StarkBotsIndustries/AnonymousSenderBot/graphs/contributors/)
-
-> Contributions are heartily accepted.
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-## Credits
-
-- [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
-
-## Support
-
-Channel :- [@StarkBots](https://t.me/StarkBots)
-
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
-
-## :)
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+Support Channel :- @STBOTZ
+Support Griup :- ST_BOTZ
