@@ -3,21 +3,21 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
     # Start Message
-    START = "Hey {}. \n\nWelcome to {} \n\nSend me anything and I'll send it back after removing the forwarded tag. \n\nBy @StarkBots ♥"
+    START = "Hey {}. \n\nWelcome to {} \n\nSend me anything and I'll send it back after removing the forwarded tag. \n\nBy @STBOTZ ♥"
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @STBOTZ
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/AnonymousSenderBot)
+Source Code : [Click Here](https://github.com/STBOTZ/Anonymous-sender)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @STBOTZ
     """
 
     # Home Button
@@ -34,6 +34,6 @@ Developer : @StarkProgrammer
         [
             InlineKeyboardButton("🎪 About The Bot 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ Support Channel ♥", url="https://t.me/STBOTZ")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/ST_BOTZ")],
     ]
