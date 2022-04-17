@@ -1,4 +1,4 @@
-## Anonymous Sender Bot [@AnonySendBot](https://t.me/AnonySendBot)
+## Anonymous Sender Bot [@ST_ANONYMOUSSENDERBOT](https://t.me/ST_ANONYMOUSSENDERBOT)
 
 <p align="center"><a href="https://github.com/STBOTZ/Anonymous-sender"><img src="https://telegra.ph/file/107ff8af751ad7b72e9b9.jpg" width="5000"></a></p>
 
