@@ -10,7 +10,7 @@ async def _calls(anonbot, callback_query):
     message_id = callback_query.message.message_id
     if callback_query.data.lower() == "home":
         user = await anonbot.get_me()
-        mention = user["mention"]
+        mention = {message.from_user.mention}
         await anonbot.edit_message_text(
             chat_id=chat_id,
             message_id=message_id,
